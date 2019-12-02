@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://vinay:vinay123@devconnector-tkywl.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://vinay:vinay123@devconnector-tkywl.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "c90bc4240eccadd19336",
+  "githubSecret": "bf1e11de3234b6f11c6e5ad07ffe89291078c9cc"
 }
